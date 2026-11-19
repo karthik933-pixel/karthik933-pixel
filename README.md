@@ -8,7 +8,7 @@
 
 <img src="./assets/pulse.svg" alt="" width="100%"/>
 
-<img src="./assets/orbit.svg" alt="Tech Stack" width="100%"/>
+<img src="./assets/orbit.svg" alt="Solar System" width="100%"/>
 
 <img src="./assets/pulse.svg" alt="" width="100%"/>
 
