@@ -8,12 +8,12 @@
 
 <img src="./assets/pulse.svg" alt="" width="100%"/>
 
-<img src="./assets/orbit.svg" alt="Karthik's skill universe" width="100%"/>
+<img src="./assets/orbit.svg" alt="Tech Stack" width="100%"/>
 
 <img src="./assets/pulse.svg" alt="" width="100%"/>
 
-**Open to collaborating on things that are a little bit weird and a lot of fun.**
+**Always open to collaborating on innovative ideas and building impactful software.**
 
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [Email](mailto:YOUR_EMAIL) · [Portfolio](https://YOUR_PORTFOLIO.com)
+[LinkedIn](https://www.linkedin.com/in/karthik-mg-b2192a3b6/) · [GitHub](https://github.com/karthik933-pixel) · [Email](mailto:mgkarthik933@gmail.com)
 
 </div>
